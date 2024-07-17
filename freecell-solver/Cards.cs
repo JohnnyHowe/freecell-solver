@@ -1,3 +1,5 @@
+
+namespace JonathonOH.Freecell;
 public static class Cards {
 	public static Card d0 = new Card(Suit.diamond, 0);
 	public static Card d1 = new Card(Suit.diamond, 1);

@@ -1,4 +1,3 @@
-﻿using static Cards;
+﻿using JonathonOH.Freecell;
 
-Console.WriteLine(d0);
-
+Console.Write(CardGenerator.FromSeed(0));

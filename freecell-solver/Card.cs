@@ -1,3 +1,5 @@
+
+namespace JonathonOH.Freecell;
 public class Card
 {
     public Card(Suit suit, int value)
