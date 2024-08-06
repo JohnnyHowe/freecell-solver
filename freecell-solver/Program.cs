@@ -1,3 +1,3 @@
 ﻿using JonathonOH.Freecell;
 
-Console.Write(CardGenerator.FromSeed(0));
+Console.Write(CardGenerator.FromSeed(0).GetAsciiBoard());

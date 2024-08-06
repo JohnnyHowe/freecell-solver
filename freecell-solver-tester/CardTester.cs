@@ -1,4 +1,4 @@
-using static Cards;
+using static JonathonOH.Freecell.Cards;
 
 namespace freecell_solver_tester;
 
